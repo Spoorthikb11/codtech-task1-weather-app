@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  min-width: 250px;
+  padding: 10px;
+  background: #f4f4f4;
+}
+
+h2 {
+  text-align: center;
+}
+
+div {
+  padding: 5px;
+  margin: 5px;
+  background: white;
+  border-radius: 5px;
+}
